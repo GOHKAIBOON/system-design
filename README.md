@@ -1,3 +1,3 @@
 # system-design
 
-This respository isaimed to do the system design tasks.
+This respository is aimed to do the system design tasks.
